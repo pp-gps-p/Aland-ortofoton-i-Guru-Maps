@@ -6,7 +6,7 @@ Jag har en öppen proxy för flygfoton som kan användas som kartlager i Guru Ma
 
 ### Så här använder du kartlagret i Guru Maps:
 
-- Ladda ner filen .ms (Map Source) filen till din telefon  
+- Ladda ner .ms (Map Source) filen till din telefon  
 - Öppna filen i filutforskaren
 - Välj **"öppna med Guru Maps"**
 
