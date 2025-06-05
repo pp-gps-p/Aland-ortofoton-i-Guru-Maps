@@ -10,4 +10,6 @@ Jag har en öppen proxy för flygfoton som kan användas som kartlager i Guru Ma
 - Öppna filen i filutforskaren
 - Välj **"öppna med Guru Maps"**
 
+"Google Maps Hybrid overlay.ms" lägger på nutida vägar på flygbilden.
+
 mapproxy.yaml konfigureringsfilen finns i https://github.com/pp-gps-p/Porkala-ortofoton-i-Guru-Maps projektet
