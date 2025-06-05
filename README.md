@@ -1,4 +1,4 @@
-# Åländska flygfoto – Kartlager för Guru Maps
+# Åländska flygfoto kartlager för Guru Maps
 
 ## Svenska 🇸🇪
 
